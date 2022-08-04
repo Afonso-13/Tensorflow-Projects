@@ -1,5 +1,6 @@
 # Tensorflow-Projects
 	A colection of my tensorflow projects
+	
 	Boston house - Study on the boston house prices dataset - Using gridsearch and some models
 	House data - Study on the kc_house_data dataset - Using a deep neural network model
 	KNN - Study on a classified data type dataset - Using the KNN Model
